@@ -1,3 +1,5 @@
 pytube
 openai-whisper==20231106
 pygame
+ffmpeg-python
+streamlit
